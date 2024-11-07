@@ -232,6 +232,7 @@ h3 {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  font-family: "Be Vietnam Pro", sans-serif;
 }
 
 .info h2 {
