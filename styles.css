@@ -40,9 +40,9 @@ body {
 .navbar nav {
   display:flex;
   align-items:center;
+  justify-content: space-between;
 }
 .navbar nav a {
-  margin: 0 15px;
   text-decoration: none;
   color: #002a48;
   font-size: 14px;
