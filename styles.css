@@ -226,6 +226,7 @@ h3 {
 .pet-card img {
   object-fit: cover;
   padding: 8px 8px;
+  width: 100%;
 }
 .info {
   padding: 0 13px 20px 13px;
