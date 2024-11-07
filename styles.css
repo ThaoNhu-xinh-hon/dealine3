@@ -92,6 +92,7 @@ body {
 .hero {
   display: flex;
   align-items: center;
+  padding-left: 100px;
 }
 .hero-text h1 {
   font-size: 48px;
@@ -105,9 +106,6 @@ body {
   max-width: 500px;
   margin-bottom: 30px;
   font-weight: 500;
-}
-.hero-text{
-  justify-content: flex-end;
 }
 .button2 {
   display: flex;
