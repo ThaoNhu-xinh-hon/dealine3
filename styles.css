@@ -262,8 +262,6 @@ h3 {
 .dogs {
   display: flex;
   justify-content: space-between;
-  margin-left: 63px;
-  margin-right: 46px;
 }
 
 .card-content {
