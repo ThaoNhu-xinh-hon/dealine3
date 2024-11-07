@@ -96,7 +96,7 @@ body {
 .hero {
   display: flex;
   align-items: center;
-  padding-left: 20px;
+  padding-left: 90px;
 }
 .hero-text{
   padding-top:30px;
