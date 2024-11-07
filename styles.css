@@ -99,7 +99,7 @@ body {
   padding-left: 70px;
 }
 .hero-text{
-  padding-top:30px;
+  padding-top:50px;
 }
 .hero-text h1 {
   font-size: 48px;
@@ -121,7 +121,6 @@ body {
   flex-direction: row;
   margin-left: 60px;
   padding-bottom: 140px;
-  padding-top: 30px;
 }
 .button2-1 {
   box-sizing: border-box;
