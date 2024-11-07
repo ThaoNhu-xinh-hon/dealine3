@@ -254,7 +254,7 @@ h3 {
   padding-left: 80px;
   margin-right: auto;
   border-radius: 20px;
-  width: 100%;
+  background-size: cover;
   height: 378px;
   margin-bottom: 70px;
 }
