@@ -92,7 +92,6 @@ body {
 .hero {
   display: flex;
   align-items: center;
-  justify-content: space-between;
 }
 .hero-text h1 {
   font-size: 48px;
@@ -107,7 +106,9 @@ body {
   margin-bottom: 30px;
   font-weight: 500;
 }
-
+.hero-text{
+  justify-content: flex-end;
+}
 .button2 {
   display: flex;
   flex-wrap: wrap;
