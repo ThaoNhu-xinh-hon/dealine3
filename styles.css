@@ -172,6 +172,7 @@ p {
 .container {
   width: 100%;
   gap: 20px;
+  padding:0 100px;
 }
 
 p {
