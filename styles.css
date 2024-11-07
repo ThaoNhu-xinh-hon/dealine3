@@ -13,6 +13,7 @@ body {
   background-image: url(/img/nen-1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  height: 695px;
 }
 .background_img{
   position: absolute;
