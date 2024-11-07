@@ -397,3 +397,8 @@ input {
   width: auto;
   display: inline-flexbox;
 }
+.footer {
+  width: 100%;
+  bottom: 0;
+}
+  
