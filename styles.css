@@ -20,10 +20,10 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-top: 30px;
   position: relative;
   height: 100px;
   padding-left:121px;
+  padding-right:130px;
 }
 
 .navbar .logo {
