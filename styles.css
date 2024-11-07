@@ -113,6 +113,7 @@ body {
   gap: 18px;
   flex-direction: row;
   margin-left: 60px;
+  padding-bottom: 205px;
 }
 .button2-1 {
   box-sizing: border-box;
