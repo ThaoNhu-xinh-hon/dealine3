@@ -39,7 +39,7 @@ body {
 }
 .navbar nav {
   display:flex;
-  text-align:center;
+  align-items:center;
 }
 .navbar nav a {
   margin: 0 15px;
