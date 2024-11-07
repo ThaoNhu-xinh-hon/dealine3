@@ -260,10 +260,13 @@ h3 {
   width: 380px;
   height: 424px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 8px;
+  border-radius: 12px;
 }
 .dogs {
   display: flex;
   justify-content: space-between;
+  
 }
 
 .card-content {
