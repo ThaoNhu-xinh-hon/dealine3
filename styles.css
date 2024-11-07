@@ -97,6 +97,9 @@ body {
   align-items: center;
   padding-left: 100px;
 }
+.hero-text{
+  padding-top:180px;
+}
 .hero-text h1 {
   font-size: 48px;
   color: #1e1e1e;
